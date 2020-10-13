@@ -27,7 +27,7 @@ Tout ça en utilisant Wordpress !<br>
 	✔️ Formation à l’utilisation de votre site internet<br>
 	✔️ Maintenance en option (avec possibilité de rapport d’activité hebdomadaire ou mensuel)<br>
 <br>
-Le plus agréable pour moi est de participer au lancement d'un projet, pour apporter de mon expérience et un peu de ma créativité. Car j'aime développer des expériences utilisateurs cohérentes !<br>
+Le plus agréable pour moi est de participer au lancement d'un projet, pour apporter de mon expérience et un peu de ma créativité. Car j'aime développer des expériences utilisateurs cohérentes !<br><br><br><br>
 </p>
 <p align='center'>Pour toute demande, contactez-moi sur mon site <a href="https://dontbe.cool">dontbe.cool</a>.</p>
 
